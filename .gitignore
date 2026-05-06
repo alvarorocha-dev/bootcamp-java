@@ -1,0 +1,17 @@
+# Compilados Java
+*.class
+*.jar
+*.war
+target/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente (NUNCA commitar isso)
+.env
+*.env
